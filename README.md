@@ -1,1 +1,1 @@
-# Regression-with-Sci-kit-learn
+# Regression with Sckit-learn
