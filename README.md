@@ -1,4 +1,4 @@
-# Regression with Sckit-learn
+# Linear Regression with Sckit-learn
 Detailed comparison of performance of Linear regression and Polynomial regression.
 
 Linear regression
